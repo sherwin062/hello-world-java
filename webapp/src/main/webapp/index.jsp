@@ -44,7 +44,7 @@
     />
     <br />
 
-    <label for="psw-repeat"><b>Repeat Password LOLERS</b></label>
+    <label for="psw-repeat"><b>Repeat Password LOLEqweqweRS</b></label>
     <input
       type="password"
       placeholder="Repeat Password"
