@@ -24,7 +24,7 @@
     />
     <br />
 
-    <label for="email"><b>Enter EmailSSS</b></label>
+    <label for="email"><b>EnterEED EmailSSS</b></label>
     <input
       type="text"
       placeholder="Enter Email"
