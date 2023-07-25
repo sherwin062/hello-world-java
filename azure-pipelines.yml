@@ -26,7 +26,7 @@ stages:
   - job: Build
     displayName: Build
     pool:
-      name: NameOfYourPool
+      name: Default
       demands:
       - agent.name -equals DESKTOP-O7NSKIB
     steps:
