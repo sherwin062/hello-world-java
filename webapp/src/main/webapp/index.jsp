@@ -34,7 +34,7 @@
     />
     <br />
 
-    <label for="psw"><b>Passwordssssssss</b></label>
+    <label for="psw"><b>Passwordssssttsssss</b></label>
     <input
       type="password"
       placeholder="Enter Password"
